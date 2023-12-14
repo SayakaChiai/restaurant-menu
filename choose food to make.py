@@ -6,6 +6,7 @@
 # if not, remove from menu
 # DONE no menu items left = quit
 
+
 import sys
 
 class CheckIfEnough:
